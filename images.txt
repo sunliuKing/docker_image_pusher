@@ -7,3 +7,5 @@ xhofe/alist:latest
 
 # Redis
 redis:6.2
+nacos/nacos-server:v2.2.3
+mysql:8.0.38
