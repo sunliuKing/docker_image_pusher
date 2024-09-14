@@ -10,3 +10,4 @@ redis:6.2
 nacos/nacos-server:v2.2.3
 nacos/nacos-server:v2.3.0
 mysql:8.0.38
+bladex/sentinel-dashboard:1.8.1
