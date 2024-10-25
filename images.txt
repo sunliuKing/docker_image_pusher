@@ -13,3 +13,4 @@ mysql:8.0.38
 bladex/sentinel-dashboard:1.8.1
 elasticsearch:8.6.2
 doccano/doccano:frontend
+doccano/doccano:1.8.4
