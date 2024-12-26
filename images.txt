@@ -14,3 +14,4 @@ bladex/sentinel-dashboard:1.8.1
 elasticsearch:8.6.2
 doccano/doccano:frontend
 doccano/doccano:1.8.4
+canal/canal-server:v1.1.5
