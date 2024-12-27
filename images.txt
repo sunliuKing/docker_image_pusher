@@ -15,4 +15,5 @@ elasticsearch:8.6.2
 doccano/doccano:frontend
 doccano/doccano:1.8.4
 canal/canal-server:v1.1.5
-docker pull apache/rocketmq:5.1.0
+apache/rocketmq:5.1.0
+mongo:6
