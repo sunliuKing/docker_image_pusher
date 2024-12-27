@@ -16,4 +16,5 @@ doccano/doccano:frontend
 doccano/doccano:1.8.4
 canal/canal-server:v1.1.5
 apache/rocketmq:5.1.0
+apache/rocketmq:4.9.6
 mongo:6
