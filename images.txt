@@ -19,4 +19,4 @@ apache/rocketmq:5.1.0
 apache/rocketmq:4.9.6
 mongo:6
 mongo:4.4
-
+apacherocketmq/rocketmq-dashboard:latest
