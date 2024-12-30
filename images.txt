@@ -20,3 +20,4 @@ apache/rocketmq:4.9.6
 mongo:6
 mongo:4.4
 apacherocketmq/rocketmq-dashboard:latest
+seataio/seata-server:1.4.2
